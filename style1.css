@@ -1,0 +1,72 @@
+/* Reset some default browser styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Styling the header section */
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Styling the navigation menu (optional) */
+  nav {
+    background-color: #333;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  /* Styling each section */
+  .section {
+    padding: 20px;
+  }
+  
+  /* Customize each section as needed */
+  #about {
+    background-color: #f5f5f5;
+  }
+  
+  #designation {
+    background-color: #e0e0e0;
+  }
+  
+  #division {
+    background-color: #d5d5d5;
+  }
+  
+  #contact {
+    background-color: #ccc;
+  }
+  
+  /* Styling headings */
+  h1, h2 {
+    text-align: center;
+  }
+  
+  /* Additional styling for links */
+  a {
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+/* Add this CSS to position the image in the top right corner */
+.top-left-img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 1px; /* Adjust the margin as needed to position the image precisely */
+  }
+    
